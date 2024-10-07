@@ -56,12 +56,12 @@ To do this, please in console run commands
 ```
 git remote rm upstream
 
-git remote add upstream https://github.com/school-of-digital-competencies/js-ts-webdev-lectures
+git remote add upstream https://github.com/school-of-digital-competencies/js-ts-webdev-tasks
 ```
 
 #### Visual Studio Code
 
-In Source Control menu click on three dots -> Remote -> Add remote -> Paste `https://github.com/school-of-digital-competencies/js-ts-webdev-lectures` -> Enter upstream
+In Source Control menu click on three dots -> Remote -> Add remote -> Paste `https://github.com/school-of-digital-competencies/js-ts-webdev-tasks` -> Enter upstream
 
 **NOTE** You might need to remove previously created upstream. In Source Control menu click on three dots -> Remote -> Remove remote -> upstream.
 
